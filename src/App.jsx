@@ -8,7 +8,7 @@ const App = () => (
       <Hero /> 
     </section>
     <section className="padding">
-      <popularProducts />
+      <PopularProducts />
     </section>
     <section className="padding">
       <SuperQuality />
